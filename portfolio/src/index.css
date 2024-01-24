@@ -1,0 +1,20 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap') */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.link {
+  @apply p-2.5 flex rounded-md gap-6 text-[18px] items-center md:cursor-pointer cursor-default duration-300 font-medium hover:-translate-y-1 text-gray-400;
+}
+
+/* .active {
+  @apply  text-gray-400;
+} */
+
+
+
+
+
