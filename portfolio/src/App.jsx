@@ -4,7 +4,7 @@ import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <div className="bg-[#14131A] ">
+    <div className="bg-[#14131A]  h-auto">
       <Rootlayout>
         <Routes>
           <Route path="/" element={<Home />} />

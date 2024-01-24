@@ -14,6 +14,7 @@ export default function Home() {
       <section  className="my-10">
         <Projects/>
       </section>
+      hello
     </div>
   );
 }
